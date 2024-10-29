@@ -308,84 +308,84 @@ width:100%;
   padding: 0px;
 }
 
-.index1{
+.home1{
   margin-top: 80px;
   width: 100%;
   padding: 0px;
   position: relative;
 }
 
-.index1 img{
+.home1 img{
   width: 100%;
   height: 500px;
   border-radius: 5px;
 }
 
-.index1text {
+.home1text {
   position: absolute;
   top: 25%;
   left: 22%;
   text-align: center;
 }
 
-.index1text h1 {
+.home1text h1 {
   font-size: 50px;
   color: #FFFFFF;
 }
 
-.index1text p{
+.home1text p{
   font-size: 25px;
   color: #FFFFFF;
 }
 
-.index2 {
+.home2 {
   padding: 50px;
   display: flex;
 }
 
-.index2 img {
+.home2 img {
   border-radius: 40px;
   width: 300px;
   height: 400px;
   padding-right: 20px;
 }
 
-.index2text h1 {
+.home2text h1 {
   margin-top: 15%;
   font-size: 30;
 }
 
-.index2text p {
+.home2text p {
   font-size: 25;
 }
 
-.index3 {
+.home3 {
   text-align: center;
   background-color: #BEE2F9;
   padding: 50px;
 }
 
-.index3text {
+.home3text {
   margin-top: 60px;
   display: flex;
 
 }
 
-.index3 img {
+.home3 img {
   border-radius: 40px;
   width: 800px;
   height: 450px;
   padding-left: 20px;
 }
 
-.index3text p{
+.home3text p{
   text-align: left;
   margin-left: 150px;
   margin-right: 50px;
 
 }
 
-.index3text span{
+.home3text span{
   font-size: 25px;
   font-weight: bold;
 }
